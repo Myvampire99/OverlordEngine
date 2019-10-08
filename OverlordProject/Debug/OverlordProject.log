@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  DiffuseMaterial.cpp
+  SpikeyMaterial.cpp
+  ExamScene.cpp
+  ColorMaterial.cpp
+  UberMaterial.cpp
+  PostBlur.cpp
+  PostGrayscale.cpp
+  DiffuseMaterial_Shadow.cpp
+  SkinnedDiffuseMaterial_Shadow.cpp
+  SkinnedDiffuseMaterial.cpp
+  StaticCharacter.cpp
+  MenuScene.cpp
+  PostVignette.cpp
+  SkyBoxMaterial.cpp
+  Main.cpp
+  MainGame.cpp
+  Generating Code...
+  OverlordProject.vcxproj -> C:\Users\Ruben-San\Desktop\OverlordEngine\OverlordProject\..\Build\Debug\OverlordProject.exe
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\d3dcompiler_46.dll
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\nvToolsExt32_1.dll
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\PhysX3CharacterKinematicDEBUG_x86.dll
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\PhysX3CommonDEBUG_x86.dll
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\PhysX3CommonDEBUG_x86.pdb
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\PhysX3DEBUG_x86.dll
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\PhysX\bin\Debug\PhysX3DEBUG_x86.pdb
+  7 File(s) copied
+  C:\Users\Ruben-San\Desktop\OverlordEngine\Libs\Fmod\bin\fmod.dll
+  1 File(s) copied
